@@ -1,0 +1,5 @@
+com/snakes/web/SearchMovies.class
+com/snakes/web/ListMovies.class
+com/snakes/model/Movie.class
+com/snakes/model/Media.class
+com/snakes/web/AddMovie.class
