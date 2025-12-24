@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - image: public.ecr.aws/b4h3v1j9/project-repo:latest
-        name: mindtreerepo
+        name: project-repo
